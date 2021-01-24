@@ -1,0 +1,64 @@
+[33mcommit f22c20e548ed92fc966b6d1093ed2627c78adaac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Sun Jan 24 13:43:52 2021 +0100
+
+    Commit al mester en su version del blogpost mas reciente
+
+ blogpost.html   | 12 [32m++++++++[m[31m----[m
+ css/estilos.css | 20 [32m++++++++++++++++++[m[31m--[m
+ 2 files changed, 26 insertions(+), 6 deletions(-)
+
+[33mcommit 3e10cc50deff3aa2c44bcede85e55eba3986fa27[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 17:23:21 2021 +0100
+
+    REmplazo de 1 version
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit a82f761e0361956a38e4fcb8eabf26eefeec6b7e[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 17:17:22 2021 +0100
+
+     Cambio de vida maestra
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 95609111b8b4e4c12ca093c1b010e0dfbfd93f24[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 17:16:26 2021 +0100
+
+    Cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit f4d45ab85cc3cb71a89f82b8e5ffed7c5577fb45[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 17:15:09 2021 +0100
+
+    Arranco proyecto html y css
+
+ blogpost.html   | 11 [32m+++++++++++[m
+ css/estilos.css |  8 [32m++++++++[m
+ 2 files changed, 19 insertions(+)
+
+[33mcommit 22a64e67233590b69fa4ca9d77c99cac4991a1d3[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 14:50:25 2021 +0100
+
+    cambios a la historia edad
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 8b72e3a2002434e475a096af173255bf1e5aa47a[m
+Author: NitroPC <gonsorglez@gmail.com>
+Date:   Fri Jan 22 14:45:58 2021 +0100
+
+    Este es el primer commit
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
